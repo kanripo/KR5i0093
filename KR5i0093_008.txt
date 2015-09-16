@@ -1,7 +1,8 @@
 #-*- mode: org; -*-
-#+DATE: 2015-08-29 17:59:03.688741
+#+DATE: 2015-08-29 17:59:04.317701
 #+PROPERTY: ID KR5i0093
-#+TITLE:心香妙語 Xinxiang Miaoyu
+#+TITLE:心香妙語
+#+PROPERTY: pinyin Xinxiang Miaoyu
 #+PROPERTY: BASEEDITION CK-KZ
 #+PROPERTY: WITNESS CK-KZ
 <pb:CK-EX_KR5i0093_08p001a>¶
